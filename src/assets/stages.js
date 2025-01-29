@@ -1,95 +1,114 @@
 /*
 {
-	poster: string
-	value:  string
+	id:     number
+	answer: string
+	img:    string
+	perti:  any
 	unlock: boolean
 }[]
 */
 
 export default [
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     1,
+		img:    "/src/assets/a0001.png",
+		answer: "سلام حالتان چطور است",
 		unlock: true
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     2,
+		img:    "/src/assets/a0002.png",
+		answer: "سلام",
+		unlock: true
+	},
+	{
+		id:     3,
+		img:    "/src/assets/a0003.png",
+		answer: "ابپتث",
+		unlock: true
+	},
+	{
+		id:     4,
+		img:    "/src/assets/a0004.png",
+		answer: "سلام",
+		unlock: true
+	},
+	{
+		id:     5,
+		img:    "/src/assets/a0005.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     6,
+		img:    "/src/assets/a0006.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     7,
+		img:    "/src/assets/a0007.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     8,
+		img:    "/src/assets/a0008.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     9,
+		img:    "/src/assets/a0009.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     10,
+		img:    "/src/assets/a0010.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     11,
+		img:    "/src/assets/a0011.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     12,
+		img:    "/src/assets/a0012.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     13,
+		img:    "/src/assets/a0013.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     14,
+		img:    "/src/assets/a0014.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     15,
+		img:    "/src/assets/a0015.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     16,
+		img:    "/src/assets/a0016.png",
+		answer: "سلام",
 		unlock: false
 	},
 	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
-		unlock: false
-	},
-	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
-		unlock: false
-	},
-	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
-		unlock: false
-	},
-	{
-		poster: "/src/assets/logo.png",
-		value:  "سلام",
+		id:     17,
+		img:    "/src/assets/a0017.png",
+		answer: "سلام",
 		unlock: false
 	},
 ]
